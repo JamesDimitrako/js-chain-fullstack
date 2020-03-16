@@ -1,0 +1,26 @@
+{
+  "name": "js-chain-fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "block.js",
+  "dependencies": {
+    "prettier": "^1.19.1"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesDimitrako/js-chain-fullstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesDimitrako/js-chain-fullstack/issues"
+  },
+  "homepage": "https://github.com/JamesDimitrako/js-chain-fullstack#readme"
+}
